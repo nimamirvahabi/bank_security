@@ -1,0 +1,2 @@
+in this project i use HOG to detect the thief 
+if you want to try it you should change C:/Users/Lenovo/Desktop/bank/pic/ to the address that you want to save the  thiefs photos in it
